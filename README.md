@@ -8,6 +8,22 @@ Assim como é importante identificar quais os clientes são fiéis e como manter
 Compras menores e mais frequentes são mais eficazes do que uma única compra grande. Além disso, são um indicador de comportamento mais preciso, o que ajudará a embasar decisões de negócios futuras. 
 Isso aumenta a fidelização do cliente.
 
+## Segmentação com base na análise RFM + Tenure
+
+Antes da clusterização os dados dos consumidores foram separados com base:
+
+*  Recency: Quanto tempo da última compra do cliente.
+Indica engajamento e potencial interesse. Clientes que compraram recentemente têm maior probabilidade de responder a ações de marketing e promoções.
+
+*  Frequency: Com que frequência um cliente faz uma compra.
+Mede a fidelidade e o engajamento contínuo. Compradores frequentes têm maior vínculo com a empresa e podem ser o público-alvo de programas de fidelidade ou ofertas especiais.
+
+*  Monetary Value: Quanto um cliente gasta.
+Reflete o valor e a lucratividade do cliente. Clientes que gastam muito são valiosos para impulsionar a receita e podem ser recompensados ​​com benefícios exclusivos.
+
+*  Tenure: A quanto o cliente está comprando.
+Reflete a lealdade de clientes antigos, que continuam comprando com a passar do tempo.
+ 
 ## Resultados da clusterização
 
 *  Cluster 0 : Clientes que não gastam muito e estão a menos tempo com a empresa.
